@@ -1,0 +1,30 @@
+.css-preview-wrapper {
+  padding: 30px;
+  border: groove;
+  background: url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/robots.png');
+}
+
+p { 
+  border: solid;
+  text-align: center;
+  color: #ffff00; 
+background:    url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/escheresque_ste.png'); 
+  font-weight: bold; 
+  font-family: "Calibri";
+}
+
+test { 
+  text-align: center;
+  color: #ffff00; 
+  font-weight: bold; 
+  font-family: "Calibri";
+}
+
+blockquote { 
+  text-align: left; 
+  color: #ffff00; 
+  border: double;
+background: url('http://cdn.backgroundhost.com/backgrounds/subtlepatterns/escheresque_ste.png'); 
+  font-weight: bold; 
+  font-family: "Arial";
+}
